@@ -1,1 +1,2 @@
-Welcome to git
+Welcome to git my dear friend
+
